@@ -1,5 +1,5 @@
 <a href="#"><img width="28%" height="auto" align="right" src="https://github.com/wahyuandhikarizaldi/wahyuandhikarizaldi/blob/main/Assets/boy-laptop.png" /></a>
-## Hey there, I'm Wahyu! <img src="https://github.com/wahyuandhikarizaldi/wahyuandhikarizaldi/blob/main/Assets/grogu-baby-yoda.gif" height="30px" width="auto">
+## Hey there, I'm Wahyu! <img src="https://github.com/wahyuandhikarizaldi/wahyuandhikarizaldi/blob/main/Assets/grogu-baby-yoda.gif" height="30px" width="35px">
 - 💳 My full name is Wahyu Andhika Rizaldi
 - 🏫 Currently a student from Sepuluh Nopember Institute of Technology
 - 📚 Majoring in Information Technology
@@ -7,7 +7,7 @@
 - 🚀 Looking forward to collaborate on exciting projects
 - 👌 Fun fact: I love meeting new people, so please hmu anytime!
 
-## Connect with me!<img src="https://github.com/wahyuandhikarizaldi/wahyuandhikarizaldi/blob/main/Assets/cat-cactus.gif" height="30px">
+## Connect with me!<img src="https://github.com/wahyuandhikarizaldi/wahyuandhikarizaldi/blob/main/Assets/cat-cactus.gif" height="30px" width="25px">
   <a href="https://www.linkedin.com/in/wahyu-rizaldi-b1491a222/" target="blank" >
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
@@ -30,7 +30,7 @@
   <br>
   <br>
 
- ## Languages and Tools! <img src="https://github.com/wahyuandhikarizaldi/wahyuandhikarizaldi/blob/main/Assets/bot-funny.gif" height="25px">
+ ## Languages and Tools! <img src="https://github.com/wahyuandhikarizaldi/wahyuandhikarizaldi/blob/main/Assets/bot-funny.gif" height="25px" width="25px">
  ![](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
  ![](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
@@ -72,7 +72,7 @@
 <br>
 
 
-## My Favourite Repos! <img src="https://github.com/wahyuandhikarizaldi/wahyuandhikarizaldi/blob/main/Assets/star-kawaii.gif" height="20px">
+## My Favourite Repos! <img src="https://github.com/wahyuandhikarizaldi/wahyuandhikarizaldi/blob/main/Assets/star-kawaii.gif" height="20px" width="20px">
  <p align='center'>
   <a href="https://github.com/wahyuandhikarizaldi/Healthseeker"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=wahyuandhikarizaldi&repo=Healthseeker&theme=react&bg_color=1F222E&title_color=8FBCBB&icon_color=F8D866&hide_border=true&show_icons=false" alt="vite-boilerplate"></a>
 <a href="https://github.com/wahyuandhikarizaldi/Gotering"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=wahyuandhikarizaldi&repo=Gotering&theme=react&bg_color=1F222E&title_color=8FBCBB&icon_color=F8D866&hide_border=true&show_icons=false" alt="vite-boilerplate"></a>
