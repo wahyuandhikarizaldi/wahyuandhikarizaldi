@@ -1,5 +1,5 @@
 <a href="#"><img width="28%" height="auto" align="right" src="https://github.com/wahyuandhikarizaldi/wahyuandhikarizaldi/blob/main/Assets/boy-laptop.png" /></a>
-## Hey there, I'm Wahyu! <img src="https://github.com/wahyuandhikarizaldi/wahyuandhikarizaldi/blob/main/Assets/grogu-baby-yoda.gif" height="30px">
+## Hey there, I'm Wahyu! <img src="https://github.com/wahyuandhikarizaldi/wahyuandhikarizaldi/blob/main/Assets/grogu-baby-yoda.gif" height="30px" width="auto">
 - 💳 My full name is Wahyu Andhika Rizaldi
 - 🏫 Currently a student from Sepuluh Nopember Institute of Technology
 - 📚 Majoring in Information Technology
