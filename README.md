@@ -74,7 +74,7 @@
 
 ## My Favourite Repos! <img src="https://github.com/wahyuandhikarizaldi/wahyuandhikarizaldi/blob/main/Assets/star-kawaii.gif" height="20px" width="20px">
  <p align='center'>
-   <a href="https://github.com/wahyuandhikarizaldi/Garasee"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=wahyuandhikarizaldi&repo=Healthseeker&theme=react&bg_color=1F222E&title_color=8FBCBB&icon_color=F8D866&hide_border=true&show_icons=false" alt="vite-boilerplate"></a>
+   <a href="https://github.com/wahyuandhikarizaldi/Garasee"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=wahyuandhikarizaldi&repo=Garasee&theme=react&bg_color=1F222E&title_color=8FBCBB&icon_color=F8D866&hide_border=true&show_icons=false" alt="vite-boilerplate"></a>
   <a href="https://github.com/wahyuandhikarizaldi/Healthseeker"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=wahyuandhikarizaldi&repo=Healthseeker&theme=react&bg_color=1F222E&title_color=8FBCBB&icon_color=F8D866&hide_border=true&show_icons=false" alt="vite-boilerplate"></a>
 <a href="https://github.com/wahyuandhikarizaldi/Siakadskuy"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=wahyuandhikarizaldi&repo=Siakadskuy&theme=react&bg_color=1F222E&title_color=8FBCBB&icon_color=F8D866&hide_border=true&show_icons=false" alt="vite-boilerplate"></a>
   <a href="https://github.com/wahyuandhikarizaldi/story-app"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=wahyuandhikarizaldi&repo=story-app&theme=react&bg_color=1F222E&title_color=8FBCBB&icon_color=F8D866&hide_border=true&show_icons=false" alt="vite-boilerplate"></a>
